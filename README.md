@@ -5,7 +5,7 @@
 
 0) Project "Pokemon Catch Them All" was implemented in java, using Eclipse IDE.
 
-1) Folder pminds_pokemon contains java project of the exercise. You can import it to your IDE directly (e.g. using Eclipse: Import -> General -> Existing project into workspace). Maven should take care of all dependencies.
+1) Folder pminds_pokemon contains java project of the exercise requested. You can import it to your IDE directly (e.g. using Eclipse: Import -> General -> Existing project into workspace). Maven should take care of all dependencies.
 
 2) Zip pminds_pokemon_archive contains the same project, in archive mode.
 You can import it to your IDE directly (e.g. using Eclipse: Import -> General -> Project from Folder or Archive -> Archive). Maven should take care of all dependencies.
