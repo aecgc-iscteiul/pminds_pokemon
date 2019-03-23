@@ -41,10 +41,8 @@ public class TrainerAsh {
 	 */
 	public void initTrainerAsh() {
 		currentPosition = new Point(0, 0);
-		if(!pathTaken.isEmpty()) { 
-			pathTaken.clear(); 
-			pathTaken.add(currentPosition.getLocation());
-		}
+		pathTaken.clear(); 
+		pathTaken.add(currentPosition.getLocation());
 		pokemonCounter = 1;
 	}
 
